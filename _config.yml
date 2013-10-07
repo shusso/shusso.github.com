@@ -23,6 +23,7 @@
 # url : http://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
+
 name : gh-pages-blog Test
 brand : gh-pages-blog Test
 description : gh-pages-blog Test
@@ -333,12 +334,12 @@ social_links :
 #   - project :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
-github_projects :
-  header : GitHub Projects
-  projects :
-  - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+# github_projects :
+#   header : GitHub Test Project
+#   projects :
+#   - project :
+#     name : gh-pages-blog
+#     url : https://github.com/thedereck/gh-pages-blog
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -363,12 +364,12 @@ github_projects :
 #     - link :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
-external_links :
-  header : More Great gh-pages-blog Sites
-  links :
-    - link :
-      name : The Dereck
-      url: http://thedereck.github.io
+# external_links :
+#   header : More Great gh-pages-blog Sites
+#   links :
+#     - link :
+#       name : The Dereck
+#       url: http://thedereck.github.io
 
 
 # These are the bootstrap settings. These bootstrap settings will control both
