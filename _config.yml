@@ -23,12 +23,12 @@
 # url : http://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The Official gh-pages-blog GitHub Page
-url : http://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : gh-pages-blog Test
+brand : gh-pages-blog Test
+description : gh-pages-blog Test
+url : http://shusso.github.io
+email : foo@foo.com
+author : Test
 
 
 # The following is a list of files to exclude from inclusion in the
